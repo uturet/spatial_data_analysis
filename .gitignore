@@ -1,0 +1,5 @@
+*.tif
+*.png
+test*
+.idea
+.venv
