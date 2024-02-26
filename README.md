@@ -30,4 +30,9 @@ This program can analyse any given area and show the result, showing dangerous t
 
 # Example
 
+**Input**
+
+- DEM of Titon National park 1812x1812
+- Trails shapefile of Titon National Park
+
 ![Grand Titon National Park](out.webp)
