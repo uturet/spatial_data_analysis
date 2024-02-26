@@ -8,7 +8,6 @@ The purpose of the project is to find which trails are dangerous during the wint
 
 # Data Analysis Results
 
-
 This program can analyse any given area and show the result, showing dangerous trails on the area.
 
 # Development Environment
@@ -20,12 +19,15 @@ This program can analyse any given area and show the result, showing dangerous t
 
 # Useful Websites
 
-* [USGS ScienceBase-catalog](https://www.sciencebase.gov/catalog/)
-* [USGS National Map](https://apps.nationalmap.gov/downloader/)
+- [USGS ScienceBase-catalog](https://www.sciencebase.gov/catalog/)
+- [USGS National Map](https://apps.nationalmap.gov/downloader/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Customize colors and transparency of the bitmaps
-* Customize slope and aspect values
-* Make vector calculation optional and show only result of slope and aspect intersection
+- Customize colors and transparency of the bitmaps
+- Customize slope and aspect values
+- Make vector calculation optional and show only result of slope and aspect intersection
+
+# Example
+
+![Grand Titon National Park](out.webp)
